@@ -1,0 +1,29 @@
+_repo: The-Standard-Light-OperasTheir-Plots-and-Their-Music_42918
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42918-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+description: ''
+gutenberg_issued: '2013-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42918'
+  lccn: '02022510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Operetta'
+- !lcsh 'Operas -- Stories, plots, etc.'
+title: The Standard Light Operas, Their Plots and Their Music
+url: http://www.gutenberg.org/ebooks/42918
